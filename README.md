@@ -1,6 +1,6 @@
 # DevOps Roadmap
 
-Documenting my hands-on DevOps learning path, from basics to advanced through manual and automated deployments, debugging real infrastructure issues, and building toward cloud, complete CI/CD, and Kubernetes.
+Documenting my DevOps learning path, from basics to advanced.
 
 ## Course Progress
 
