@@ -23,7 +23,7 @@ Deployment could also mean:
 **Automation Tools:**
 
 - Ansible, Puppet, Chef (System Automation)
-- Terraform, CFormation ( Cloud Info Automation)
+- Terraform, CFormation (Cloud Info Automation)
 - Jenkins, Octopus Deploy (CI/CD Automation)
 - HELM Charts
 - Code Deploy
@@ -35,3 +35,4 @@ Deployment could also mean:
 - Performance
 - DataBase
 - Network/Security
+
